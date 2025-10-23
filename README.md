@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:AxelGerard28?theme=gelbooru&padding=16&scale=1&align=center&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:AxelGerard28?theme=booru-townofgravityfalls&padding=16&scale=1&align=center&pixelated=1&darkmode=0"  />
 </div>
 
 ###
